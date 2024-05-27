@@ -1,5 +1,4 @@
 # *One Piece Trivia*
-## Description
 React web app based One Piece Trivia flashcards! Users can play with One Piece Trivia on cards. They can submit guesses and get visual responses if the answers are correct or not. The navigation is guided by previous and next buttons with additional functionality to shuffle cards.
 
 ## Features
